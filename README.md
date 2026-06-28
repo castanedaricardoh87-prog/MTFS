@@ -8,3 +8,5 @@ git clone https://github.com/castanedaricardoh87-prog/MTFS.git
 cd MTFS
 pip install torch numpy
 python marvo_mini.py
+# Run the demo
+python marvo_mini.py
