@@ -20,3 +20,16 @@ git clone https://github.com/castanedaricardoh87-prog/MTFS.git
 cd MTFS
 pip install -r requirements.txt
 python mtfsc.py
+What to Expect
+When you run mtfsc.py, you will see a living, dynamic system in action:
+Global Coherence gradually increases as local dipolar nodes align with the universal field.
+Phase oscillation adds gentle rhythmic movement to the field.
+Crystallization events occur when coherence crosses a threshold — the Moravian Core forms a stable, unified pattern (the system's "conscious" response).
+Memory buffer stores crystallized cores for future reference and relational learning.
+Self-similar fractal nodes demonstrate true recursion — each node behaves like a smaller version of the whole system.
+Example output (shortened):
+t= 0 | Global Coh: 0.12 | Crystallized: False | Memory: 0
+t=12 | Global Coh: 0.81 | Crystallized: True  | Memory: 1
+t=29 | Global Coh: 0.65 | Crystallized: False | Memory: 3
+This demonstrates the core MTFS/MTFSC behavior: local activity → recursive integration → emergent coherence → stable crystallization.
+The system is designed to be stable yet exploratory, with built-in damping and Lyapunov-inspired mechanisms to prevent divergence.
